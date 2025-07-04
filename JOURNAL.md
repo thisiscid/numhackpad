@@ -18,3 +18,18 @@ but yea, not a hackpad anymore, its a numhackpad, should update the repo name bu
 ^ ooo 3d view
 
 **total time spent**: 4hrs
+
+# day 2!!
+
+#### 7/4/25, 4:03 PM
+This time round I did some stuff with the case (and then undid it bcs i decided i needed to expand my pcb). I also added holes for standoffs + added art!
+Also, new repo name wooo
+
+![image of my new pcb](<images/Screenshot 2025-07-04 at 4.04.46 PM.png>)
+^ pcb editor!
+![3d image of the new pcb](<images/Screenshot 2025-07-04 at 4.06.03 PM.png>)
+^ 3d view again
+![case before i undid it](<images/Screenshot 2025-07-04 at 4.07.48 PM.png>)
+^ what the case looked like before i undid my stuff
+
+**total time spent**: 2 hrs
