@@ -16,4 +16,5 @@ but yea, not a hackpad anymore, its a numhackpad, should update the repo name bu
 ^ pcb schematic
 ![3d image of my pcb](<images/Screenshot 2025-07-04 at 1.24.19 AM.png>)
 ^ ooo 3d view
+
 **total time spent**: 4hrs
