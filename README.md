@@ -11,9 +11,10 @@ the case and pcb should fit nicely with 8 m3 screws and heatset inserts. 4 for t
 
 it has 2 printed pieces: the bottom and the top of the case
 
-![top](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ad51febad2672b1e09fc197a29e6e880efd43739_image.png)
+![top](https://hc-cdn.hel1.your-objectstorage.com/s/v3/aa0dce6b94d13610377e439fdee1426dac5653a7_screenshot_2025-07-06_at_4.48.40___pm.png)
 ![bottom](https://hc-cdn.hel1.your-objectstorage.com/s/v3/11bd733bad6728e32ada1485eecb76ba7b07c981_image.png)
-
+![put together](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9efde0e97415c62855aad832330b958e58d98b36_screenshot_2025-07-06_at_4.48.27___pm.png)
+![put together again](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8952adb2fd979d32f4bdc9ba582b261e89a0188b_screenshot_2025-07-06_at_4.48.32___pm.png)
 made using Fusion360
 
 ## PCB

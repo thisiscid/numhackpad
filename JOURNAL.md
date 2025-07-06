@@ -71,3 +71,14 @@ off to lunch now
 
 **total time spent**: 40m
 
+# we're done!
+#### 7/6/25, 5:13 PM
+
+so now we're done! i added keycaps to the 3d model, did a bunch of organizing, and made a readme, so yay!
+
+![put together](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9efde0e97415c62855aad832330b958e58d98b36_screenshot_2025-07-06_at_4.48.27___pm.png)
+![top](https://hc-cdn.hel1.your-objectstorage.com/s/v3/aa0dce6b94d13610377e439fdee1426dac5653a7_screenshot_2025-07-06_at_4.48.40___pm.png)
+![file structure](https://hc-cdn.hel1.your-objectstorage.com/s/v3/46a74eb5ff955b5baacb07709e5c18c164951b3e_screenshot_2025-07-06_at_5.14.39___pm.png)
+
+**total time spent**: 1hr
+
