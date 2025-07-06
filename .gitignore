@@ -37,6 +37,6 @@ fp-info-cache
 **/*-backups/*.zip
 
 # Local project settings
-*.kicad_prl
+# *.kicad_prl
 
 .DS_Store
