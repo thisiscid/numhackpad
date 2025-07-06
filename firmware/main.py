@@ -7,8 +7,7 @@ from kmk.modules.macros import Press, Release, Tap, Macros
 from kmk.scanners import DiodeOrientation
 
 keyboard = KMKKeyboard()
-macros = Macros()
-keyboard.modules.append(macros)
+
 keyboard.row_pins = (board.GP27, board.GP28, board.GP29, board.GP6, board.GP7)
 keyboard.col_pins = (board.GP3, board.GP4, board.GP2, board.GP1)
 keyboard.diode_orientation = DiodeOrientation.COL2ROW
