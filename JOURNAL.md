@@ -62,3 +62,12 @@ new pcb view
 2d pcb view
 
 **total time spent**: 3 hrs
+
+# starting the firmware
+#### 7/6/25, 1:16 PM
+
+so for firmware i'm using kmk bcs `qmk setup` hangs. anyways idk if this is required, im still trying to figure out how to do the gpio pin declaration but it should be mostly complete. no images this time bcs its actual code sorry chat
+off to lunch now
+
+**total time spent**: 40m
+
