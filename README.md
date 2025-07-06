@@ -1,8 +1,6 @@
-# Orpheuspad
+# numhackpad
 
-Orpheuspad is a 4 key macropad with a rotary encoder, an OLED Display. It also has 2 WS2812B Leds, and uses QMK firmware
-
-It serves as an example piece/reference for the hackpad YSWS, since it contains an implementation of every common part.
+numhackpad is a 16 key macropad with nothing else except for cool oneshot art
 
 ## Features:
 - 16 keys
