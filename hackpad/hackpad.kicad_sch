@@ -1913,7 +1913,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hackpad:SW_Cherry_MX_1.00u_PCB"
 			(at 62.23 86.36 0)
 			(effects
 				(font
@@ -2184,10 +2184,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c528a")
+			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c528b")
 		)
 		(pin "2"
-			(uuid "673cc5d7-e110-4674-b382-247e9c9555ab")
+			(uuid "673cc5d7-e110-4674-b382-247e9c9555ac")
 		)
 		(instances
 			(project ""
@@ -2224,7 +2224,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hackpad:SW_Cherry_MX_1.00u_PCB"
 			(at 46.99 55.88 0)
 			(effects
 				(font
@@ -2340,10 +2340,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c528a")
+			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c528c")
 		)
 		(pin "2"
-			(uuid "673cc5d7-e110-4674-b382-247e9c9555ab")
+			(uuid "673cc5d7-e110-4674-b382-247e9c9555ad")
 		)
 		(instances
 			(project ""
@@ -2380,7 +2380,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hackpad:SW_Cherry_MX_1.00u_PCB"
 			(at 62.23 55.88 0)
 			(effects
 				(font
@@ -2408,10 +2408,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "cefff77b-f7b9-4a09-9767-cedf0c6d0132")
+			(uuid "cefff77b-f7b9-4a09-9767-cedf0c6d0133")
 		)
 		(pin "2"
-			(uuid "b8749158-fa8b-4c64-a031-c701ed69a29d")
+			(uuid "b8749158-fa8b-4c64-a031-c701ed69a29e")
 		)
 		(instances
 			(project ""
@@ -2536,7 +2536,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hackpad:SW_Cherry_MX_1.00u_PCB"
 			(at 46.99 86.36 0)
 			(effects
 				(font
@@ -2652,10 +2652,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c528a")
+			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c528d")
 		)
 		(pin "2"
-			(uuid "673cc5d7-e110-4674-b382-247e9c9555ab")
+			(uuid "673cc5d7-e110-4674-b382-247e9c9555ae")
 		)
 		(instances
 			(project ""
@@ -2692,7 +2692,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hackpad:SW_Cherry_MX_1.00u_PCB"
 			(at 31.75 71.12 0)
 			(effects
 				(font
@@ -2760,7 +2760,7 @@
 				)
 			)
 		)
-		(property "Footprint" "OPL:XIAO-RP2040-SMD"
+		(property "Footprint" "hackpad:XIAO-RP2040-DIP"
 			(at 128.778 86.868 0)
 			(effects
 				(font
@@ -2864,7 +2864,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hackpad:SW_Cherry_MX_1.00u_PCB"
 			(at 46.99 101.6 0)
 			(effects
 				(font
@@ -2932,7 +2932,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hackpad:SW_Cherry_MX_1.00u_PCB"
 			(at 31.75 55.88 0)
 			(effects
 				(font
@@ -2960,10 +2960,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "cefff77b-f7b9-4a09-9767-cedf0c6d0132")
+			(uuid "cefff77b-f7b9-4a09-9767-cedf0c6d0134")
 		)
 		(pin "2"
-			(uuid "b8749158-fa8b-4c64-a031-c701ed69a29d")
+			(uuid "b8749158-fa8b-4c64-a031-c701ed69a29f")
 		)
 		(instances
 			(project ""
@@ -3048,10 +3048,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c528a")
+			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c528e")
 		)
 		(pin "2"
-			(uuid "673cc5d7-e110-4674-b382-247e9c9555ab")
+			(uuid "673cc5d7-e110-4674-b382-247e9c9555af")
 		)
 		(instances
 			(project ""
@@ -3088,7 +3088,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hackpad:SW_Cherry_MX_1.00u_PCB"
 			(at 62.23 101.6 0)
 			(effects
 				(font
@@ -3204,10 +3204,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c528a")
+			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c528f")
 		)
 		(pin "2"
-			(uuid "673cc5d7-e110-4674-b382-247e9c9555ab")
+			(uuid "673cc5d7-e110-4674-b382-247e9c9555b0")
 		)
 		(instances
 			(project ""
@@ -3244,7 +3244,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hackpad:SW_Cherry_MX_1.00u_PCB"
 			(at 31.75 101.6 0)
 			(effects
 				(font
@@ -3360,10 +3360,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c528a")
+			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c5290")
 		)
 		(pin "2"
-			(uuid "673cc5d7-e110-4674-b382-247e9c9555ab")
+			(uuid "673cc5d7-e110-4674-b382-247e9c9555b1")
 		)
 		(instances
 			(project ""
@@ -3400,7 +3400,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_Vertical_PCB"
+		(property "Footprint" "hackpad:SW_Cherry_MX_2.00u_Vertical_PCB"
 			(at 77.47 101.6 0)
 			(effects
 				(font
@@ -3468,7 +3468,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_PCB"
+		(property "Footprint" "hackpad:SW_Cherry_MX_2.00u_PCB"
 			(at 31.75 116.84 0)
 			(effects
 				(font
@@ -3584,10 +3584,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c528a")
+			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c5291")
 		)
 		(pin "2"
-			(uuid "673cc5d7-e110-4674-b382-247e9c9555ab")
+			(uuid "673cc5d7-e110-4674-b382-247e9c9555b2")
 		)
 		(instances
 			(project ""
@@ -3672,10 +3672,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c528a")
+			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c5292")
 		)
 		(pin "2"
-			(uuid "673cc5d7-e110-4674-b382-247e9c9555ab")
+			(uuid "673cc5d7-e110-4674-b382-247e9c9555b3")
 		)
 		(instances
 			(project ""
@@ -3760,10 +3760,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c528a")
+			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c5293")
 		)
 		(pin "2"
-			(uuid "673cc5d7-e110-4674-b382-247e9c9555ab")
+			(uuid "673cc5d7-e110-4674-b382-247e9c9555b4")
 		)
 		(instances
 			(project ""
@@ -3848,10 +3848,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c528a")
+			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c5294")
 		)
 		(pin "2"
-			(uuid "673cc5d7-e110-4674-b382-247e9c9555ab")
+			(uuid "673cc5d7-e110-4674-b382-247e9c9555b5")
 		)
 		(instances
 			(project ""
@@ -3936,10 +3936,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c528a")
+			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c5295")
 		)
 		(pin "2"
-			(uuid "673cc5d7-e110-4674-b382-247e9c9555ab")
+			(uuid "673cc5d7-e110-4674-b382-247e9c9555b6")
 		)
 		(instances
 			(project ""
@@ -3976,7 +3976,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hackpad:SW_Cherry_MX_1.00u_PCB"
 			(at 62.23 116.84 0)
 			(effects
 				(font
@@ -4044,7 +4044,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_Vertical_PCB"
+		(property "Footprint" "hackpad:SW_Cherry_MX_2.00u_Vertical_PCB"
 			(at 77.47 71.12 0)
 			(effects
 				(font
@@ -4160,10 +4160,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c528a")
+			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c5296")
 		)
 		(pin "2"
-			(uuid "673cc5d7-e110-4674-b382-247e9c9555ab")
+			(uuid "673cc5d7-e110-4674-b382-247e9c9555b7")
 		)
 		(instances
 			(project ""
@@ -4248,10 +4248,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c528a")
+			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c5297")
 		)
 		(pin "2"
-			(uuid "673cc5d7-e110-4674-b382-247e9c9555ab")
+			(uuid "673cc5d7-e110-4674-b382-247e9c9555b8")
 		)
 		(instances
 			(project ""
@@ -4355,7 +4355,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hackpad:SW_Cherry_MX_1.00u_PCB"
 			(at 46.99 71.12 0)
 			(effects
 				(font
@@ -4471,10 +4471,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c528a")
+			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c5298")
 		)
 		(pin "2"
-			(uuid "673cc5d7-e110-4674-b382-247e9c9555ab")
+			(uuid "673cc5d7-e110-4674-b382-247e9c9555b9")
 		)
 		(instances
 			(project ""
@@ -4511,7 +4511,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hackpad:SW_Cherry_MX_1.00u_PCB"
 			(at 62.23 71.12 0)
 			(effects
 				(font
@@ -4579,7 +4579,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hackpad:SW_Cherry_MX_1.00u_PCB"
 			(at 31.75 86.36 0)
 			(effects
 				(font
@@ -4695,10 +4695,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c528a")
+			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c5299")
 		)
 		(pin "2"
-			(uuid "673cc5d7-e110-4674-b382-247e9c9555ab")
+			(uuid "673cc5d7-e110-4674-b382-247e9c9555ba")
 		)
 		(instances
 			(project ""
@@ -4735,7 +4735,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "hackpad:SW_Cherry_MX_1.00u_PCB"
 			(at 77.47 55.88 0)
 			(effects
 				(font
@@ -4763,10 +4763,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "cefff77b-f7b9-4a09-9767-cedf0c6d0132")
+			(uuid "cefff77b-f7b9-4a09-9767-cedf0c6d0135")
 		)
 		(pin "2"
-			(uuid "b8749158-fa8b-4c64-a031-c701ed69a29d")
+			(uuid "b8749158-fa8b-4c64-a031-c701ed69a2a0")
 		)
 		(instances
 			(project ""

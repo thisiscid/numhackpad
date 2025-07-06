@@ -33,3 +33,16 @@ Also, new repo name wooo
 ^ what the case looked like before i undid my stuff
 
 **total time spent**: 2 hrs
+
+# day 3!!
+
+#### 7/5/25, 9:15 PM
+so now we have like standoff thingies to screw our pcb into! also redid the case fr, also did actual hole stuff, took me a bit. lwk kinda having fun though
+
+
+![new case!](<images/Screenshot 2025-07-05 at 9.16.04 PM.png>)
+new case! ^
+
+![pcb](<images/Screenshot 2025-07-05 at 9.16.43 PM.png>)
+went through a bunch of changes only to undo them and end up with roughly my original design 😔
+**total time spent**: 3 hrs
