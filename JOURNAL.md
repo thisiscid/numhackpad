@@ -46,3 +46,19 @@ new case! ^
 ![pcb](<images/Screenshot 2025-07-05 at 9.16.43 PM.png>)
 went through a bunch of changes only to undo them and end up with roughly my original design 😔
 **total time spent**: 3 hrs
+
+# wooo we're finished kind of! (probably if i didn't mess up the case)
+#### 7/6/25, 12:08 AM
+
+so i accidentally added one more key so we're removing the delete key for the sake of keeping it within hackpad guidelines, and so now its a 16 key numhackpad and it truly is terrible no good very bad! the top is finished, case is done, so yay! super cool! next up, firmware </3
+
+![completed hackpad](<images/Screenshot 2025-07-06 at 12.09.12 AM.png>)
+completed hackpad!
+![top of the case/plate](<images/Screenshot 2025-07-06 at 12.09.57 AM.png>)
+plate by itself
+![3d pcb view](<images/Screenshot 2025-07-06 at 12.10.26 AM.png>)
+new pcb view
+![2d pcb view](<images/Screenshot 2025-07-06 at 12.10.52 AM.png>)
+2d pcb view
+
+**total time spent**: 3 hrs

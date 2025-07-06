@@ -1184,12 +1184,6 @@
 		(uuid "07690af4-c937-4c82-84d6-0fd71da68266")
 	)
 	(junction
-		(at 59.69 114.3)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "08bade1a-ba71-46a5-979d-9d300fd85869")
-	)
-	(junction
 		(at 29.21 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1304,12 +1298,6 @@
 		(uuid "e24b26eb-3ca5-480b-a5c6-f2530f676cd0")
 	)
 	(junction
-		(at 64.77 127)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e870e649-b0cc-4451-b766-e2709b067cee")
-	)
-	(junction
 		(at 49.53 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1339,7 +1327,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 99.06) (xy 59.69 114.3)
+			(xy 59.69 99.06) (xy 59.69 128.27)
 		)
 		(stroke
 			(width 0)
@@ -1649,7 +1637,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 127) (xy 109.22 127)
+			(xy 34.29 127) (xy 109.22 127)
 		)
 		(stroke
 			(width 0)
@@ -1716,16 +1704,6 @@
 			(type default)
 		)
 		(uuid "b46e5211-59c0-4355-80f3-1682bdc3d96e")
-	)
-	(wire
-		(pts
-			(xy 34.29 127) (xy 64.77 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b514f861-160b-493c-ba12-4cd8aa12a95e")
 	)
 	(wire
 		(pts
@@ -1836,16 +1814,6 @@
 			(type default)
 		)
 		(uuid "d372f963-214b-4179-bcb3-352b469f7353")
-	)
-	(wire
-		(pts
-			(xy 59.69 114.3) (xy 59.69 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "de92548d-402e-4c82-86bd-92a0f36a67d3")
 	)
 	(wire
 		(pts
@@ -3600,94 +3568,6 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 64.77 123.19 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bb665342-478c-45cf-8aa4-87a82773a258")
-		(property "Reference" "D14"
-			(at 67.31 121.9199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 67.31 124.4599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 64.77 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 64.77 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 64.77 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 64.77 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 64.77 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fbf96ea2-bb4f-4e9c-935c-cf69f08c5292")
-		)
-		(pin "2"
-			(uuid "673cc5d7-e110-4674-b382-247e9c9555b3")
-		)
-		(instances
-			(project ""
-				(path "/e13dbd81-e82e-4825-a082-450068fce1d9"
-					(reference "D14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
 		(at 49.53 107.95 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3945,74 +3825,6 @@
 			(project ""
 				(path "/e13dbd81-e82e-4825-a082-450068fce1d9"
 					(reference "D16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push_45deg")
-		(at 62.23 116.84 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c6154a8e-e653-440d-8930-f4ccc99d1f91")
-		(property "Reference" "SW19"
-			(at 62.23 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push_45deg"
-			(at 62.23 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "hackpad:SW_Cherry_MX_1.00u_PCB"
-			(at 62.23 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 62.23 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 62.23 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a8bdfb6f-f885-4eed-8cbd-a34f3976cbde")
-		)
-		(pin "2"
-			(uuid "0da8f354-db69-4f70-aeb5-3c2bfe032683")
-		)
-		(instances
-			(project "Untitled"
-				(path "/e13dbd81-e82e-4825-a082-450068fce1d9"
-					(reference "SW19")
 					(unit 1)
 				)
 			)
