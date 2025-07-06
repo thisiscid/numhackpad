@@ -30,7 +30,8 @@ used cherry MX for the footprints
 ## Firmware Overview
 numhackpad uses [KMK](https://github.com/KMKfw) firmware.
 
-- the 16 keys act as a numpad
+- the 16 keys act as a numpad, it is missing the delete key
+
 ## BOM:
 here should be everything you need to make this hackpad
 
